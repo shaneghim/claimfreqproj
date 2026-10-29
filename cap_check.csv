@@ -1,0 +1,5 @@
+rule,rows_affected,pct_of_rows
+claim_nb > 5,7,0.001
+exposure > 1,1224,0.181
+veh_age > 25,2619,0.386
+driv_age > 80,6180,0.911

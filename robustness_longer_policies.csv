@@ -1,0 +1,4 @@
+model,test_deviance,pct_better_than_baseline
+Baseline,0.3663309774860124,0
+Poisson GLM (no area),0.35664938846604405,2.64
+GAM (no area),0.35382854223635557,3.41
