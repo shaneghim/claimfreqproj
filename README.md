@@ -2,7 +2,7 @@
 
 An R project that looks at how often auto insurance claims are filed, using the French motor third-party liability dataset (freMTPL2freq, about 678,000 policies). The goal was to see how driver and vehicle characteristics relate to claim frequency (claims per policy year) and how well they predict it for pricing.
 
-**Report:** [fksdnnf] (source: `interpret.qmd`)
+**Report:** [https://shaneghim.github.io/claimfreq/] (source: `interpret.qmd`)
 
 ## What I did
 - Cleaned the data and capped a few extreme values (under 1% of policies each)
